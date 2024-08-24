@@ -1,0 +1,227 @@
+2024-08-22 22:05:29,372 - INFO - Logging setup complete.
+2024-08-22 22:05:36,520 - ERROR - Error loading scripts from config file: [Errno 2] No such file or directory: 'config/scripts_to_copy.json'
+2024-08-22 22:05:36,521 - INFO - No scripts found to copy. Exiting script.
+2024-08-22 22:05:36,522 - INFO - No .blend files found in the current directory.
+2024-08-22 22:05:51,754 - INFO - Moved 1 .blend files to new_test\blends
+2024-08-22 22:05:51,755 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:06:13,064 - INFO - Created project JSON file at new_test\project_config.json
+2024-08-22 22:08:16,204 - INFO - Logging setup complete.
+2024-08-22 22:08:20,351 - ERROR - Error loading scripts from config file: [Errno 2] No such file or directory: 'config/scripts_to_copy.json'
+2024-08-22 22:08:20,352 - INFO - No scripts found to copy. Exiting script.
+2024-08-22 22:08:20,353 - INFO - No .blend files found in the current directory.
+2024-08-22 22:08:22,680 - INFO - No .blend files found in the current directory.
+2024-08-22 22:08:33,329 - INFO - Moved 1 .blend files to test2\blends
+2024-08-22 22:08:33,329 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:11:19,796 - INFO - Created project JSON file at test2\project_config.json
+2024-08-22 22:11:34,116 - INFO - Logging setup complete.
+2024-08-22 22:11:38,638 - ERROR - Error loading scripts from config file: [Errno 2] No such file or directory: 'config/scripts_to_copy.json'
+2024-08-22 22:11:38,638 - INFO - No scripts found to copy. Exiting script.
+2024-08-22 22:11:40,973 - INFO - Moved 1 .blend files to test3\blends
+2024-08-22 22:11:40,974 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:11:48,685 - INFO - Created project JSON file at test3\project_config.json
+2024-08-22 22:12:53,780 - INFO - Logging setup complete.
+2024-08-22 22:12:54,909 - ERROR - Error loading scripts from config file: [Errno 2] No such file or directory: 'config/scripts_to_copy.json'
+2024-08-22 22:12:54,909 - INFO - No scripts found to copy. Exiting script.
+2024-08-22 22:12:56,269 - INFO - Moved 1 .blend files to 12\blends
+2024-08-22 22:12:56,269 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:12:58,731 - INFO - Created project JSON file at 12\project_config.json
+2024-08-22 22:16:54,530 - INFO - Logging setup complete.
+2024-08-22 22:16:56,354 - ERROR - Error loading scripts from config file: Expecting value: line 1 column 1 (char 0)
+2024-08-22 22:16:56,354 - INFO - No scripts found to copy. Exiting script.
+2024-08-22 22:18:22,920 - INFO - Moved 1 .blend files to sdfg\blends
+2024-08-22 22:18:22,921 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:18:26,790 - INFO - Logging setup complete.
+2024-08-22 22:18:28,457 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:18:33,000 - INFO - User canceled the operation due to missing scripts.
+2024-08-22 22:18:33,001 - INFO - No .blend files found in the current directory.
+2024-08-22 22:18:40,464 - INFO - User chose to exit after no .blend files were found.
+2024-08-22 22:18:40,466 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:18:41,656 - ERROR - Error creating project JSON: [Errno 2] No such file or directory: 'ewr\\project_config.json'
+2024-08-22 22:19:24,804 - INFO - Logging setup complete.
+2024-08-22 22:19:30,082 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:19:42,599 - INFO - Moved 1 .blend files to test1\blends
+2024-08-22 22:19:42,600 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:19:54,319 - INFO - Created project JSON file at test1\project_config.json
+2024-08-22 22:21:42,208 - INFO - Logging setup complete.
+2024-08-22 22:21:45,006 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:21:47,199 - INFO - User canceled the operation due to missing scripts.
+2024-08-22 22:26:04,298 - INFO - Logging setup complete.
+2024-08-22 22:26:07,340 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:26:14,772 - INFO - Moved 1 .blend files to c2\blends
+2024-08-22 22:26:14,772 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:27:08,078 - INFO - Logging setup complete.
+2024-08-22 22:27:08,875 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:27:09,821 - INFO - No .blend files found in the current directory.
+2024-08-22 22:27:12,642 - INFO - No .blend files found in the current directory.
+2024-08-22 22:27:26,178 - INFO - Moved 1 .blend files to 23\blends
+2024-08-22 22:27:26,179 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:27:33,316 - ERROR - Error creating project JSON: [Errno 2] No such file or directory: 'C:\\Users\\GrigoriosChatzivasil\\Documents\\1_documents\\1_dev\\4_syntheticData\\00_final\\2_final\\pack_content\\2_bigger project\\projects\\qwe \\project_config.json'
+2024-08-22 22:28:00,448 - INFO - Logging setup complete.
+2024-08-22 22:28:02,776 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:28:04,890 - INFO - User canceled the operation due to missing scripts.
+2024-08-22 22:28:07,199 - INFO - Logging setup complete.
+2024-08-22 22:28:09,705 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:28:12,994 - INFO - Moved 1 .blend files to qq\blends
+2024-08-22 22:28:12,995 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:28:19,522 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\wer\project_config.json
+2024-08-22 22:37:28,659 - INFO - Logging setup complete.
+2024-08-22 22:37:31,413 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:37:33,443 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:37:33,443 - INFO - No .blend files found.
+2024-08-22 22:37:33,443 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:37:38,013 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\ee\project_config.json
+2024-08-22 22:38:20,798 - INFO - Logging setup complete.
+2024-08-22 22:38:25,850 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:38:27,316 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:38:31,981 - INFO - Moved 1 files to t_1\blends
+2024-08-22 22:38:31,981 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:38:43,466 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\o\project_config.json
+2024-08-22 22:43:18,977 - INFO - Logging setup complete.
+2024-08-22 22:43:21,695 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:43:23,380 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:43:23,380 - INFO - No .blend files found.
+2024-08-22 22:43:23,380 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:43:26,413 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\ee\project_config.json
+2024-08-22 22:43:52,230 - INFO - Logging setup complete.
+2024-08-22 22:43:56,630 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:43:58,430 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:46:46,255 - INFO - Copied 1 files to _1\blends
+2024-08-22 22:46:46,255 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:47:01,490 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\new_1\project_config.json
+2024-08-22 22:48:42,795 - INFO - Logging setup complete.
+2024-08-22 22:48:52,595 - INFO - Logging setup complete.
+2024-08-22 22:48:55,079 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:48:56,362 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:49:04,295 - INFO - Logging setup complete.
+2024-08-22 22:49:06,385 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:49:07,979 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:49:09,196 - INFO - Copied 1 files to projects\123\blends
+2024-08-22 22:49:09,196 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:49:11,709 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\ee\project_config.json
+2024-08-22 22:49:36,061 - INFO - Logging setup complete.
+2024-08-22 22:49:40,231 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:49:41,430 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:49:42,180 - INFO - Copied 1 files to projects\_1\blends
+2024-08-22 22:49:42,181 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:49:48,831 - INFO - Created project JSON file at C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\projects\few\project_config.json
+2024-08-22 22:52:41,153 - INFO - Logging setup complete.
+2024-08-22 22:52:45,207 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:52:46,757 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:52:48,418 - INFO - Copied 1 files to projects\_2\blends
+2024-08-22 22:52:48,418 - WARNING - img folder not found in C:\Users\GrigoriosChatzivasil\Documents\1_documents\1_dev\4_syntheticData\00_final\2_final\pack_content\2_bigger project\img
+2024-08-22 22:52:54,673 - INFO - Created project JSON file at projects\_2\project_config.json
+2024-08-22 22:54:19,378 - INFO - Logging setup complete.
+2024-08-22 22:54:24,797 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:54:40,543 - INFO - User canceled the operation due to missing scripts.
+2024-08-22 22:56:14,667 - INFO - Logging setup complete.
+2024-08-22 22:56:17,750 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:56:21,000 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 22:56:22,417 - INFO - Copied 1 files to projects\_4\blends
+2024-08-22 22:56:22,417 - INFO - The img folder contains 1 images.
+2024-08-22 22:56:31,855 - INFO - Copied 1 images to projects\_4\img
+2024-08-22 22:56:38,998 - INFO - Created project JSON file at projects\_4\project_config.json
+2024-08-22 22:58:31,057 - INFO - Logging setup complete.
+2024-08-22 22:58:34,257 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 22:59:50,577 - INFO - User canceled the operation due to missing scripts.
+2024-08-22 22:59:51,444 - INFO - Logging setup complete.
+2024-08-22 22:59:54,154 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:00:12,945 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:00:15,144 - INFO - Copied 1 files to projects\_7\blends
+2024-08-22 23:00:15,144 - INFO - The img folder contains 1 images.
+2024-08-22 23:00:19,279 - INFO - Copied 1 images to projects\_7\img
+2024-08-22 23:00:24,428 - INFO - Created project JSON file at projects\_7\project_config.json
+2024-08-22 23:01:38,280 - INFO - Logging setup complete.
+2024-08-22 23:01:41,732 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:04:13,607 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:04:13,988 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 23:04:13,988 - INFO - The img folder contains 1 images.
+2024-08-22 23:04:14,186 - INFO - Copied 1 images to projects\_8\img
+2024-08-22 23:04:14,507 - INFO - Created project JSON file at projects\_8\project_config.json
+2024-08-22 23:04:15,923 - INFO - Logging setup complete.
+2024-08-22 23:04:19,209 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:04:25,590 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:04:27,941 - INFO - Copied 1 files to projects\_12\blends
+2024-08-22 23:04:27,941 - INFO - The img folder contains 1 images.
+2024-08-22 23:04:30,691 - INFO - Copied 1 images to projects\_12\img
+2024-08-22 23:04:36,456 - INFO - Created project JSON file at projects\_12\project_config.json
+2024-08-22 23:05:30,327 - INFO - Logging setup complete.
+2024-08-22 23:05:31,857 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:05:34,509 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:06:47,962 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-22 23:06:47,962 - INFO - The img folder contains 1 images.
+2024-08-22 23:06:48,114 - INFO - Copied 1 images to projects\qwe\img
+2024-08-22 23:06:48,417 - INFO - Created project JSON file at projects\qwe\project_config.json
+2024-08-22 23:06:49,412 - INFO - Logging setup complete.
+2024-08-22 23:06:51,614 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:06:53,764 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:06:56,681 - INFO - Copied 1 files to projects\123\blends
+2024-08-22 23:06:56,681 - INFO - The img folder contains 1 images.
+2024-08-22 23:07:00,431 - INFO - Copied 1 images to projects\123\img
+2024-08-22 23:07:04,136 - INFO - Created project JSON file at projects\123\project_config.json
+2024-08-22 23:07:20,074 - INFO - Logging setup complete.
+2024-08-22 23:07:21,859 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-22 23:07:23,591 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-22 23:07:24,966 - INFO - Copied 1 files to projects\c\blends
+2024-08-22 23:07:24,966 - INFO - The img folder contains 1 images.
+2024-08-22 23:07:27,382 - INFO - Copied 1 images to projects\c\img
+2024-08-22 23:07:33,363 - INFO - Created project JSON file at projects\c\project_config.json
+2024-08-23 23:17:40,778 - INFO - Logging setup complete.
+2024-08-23 23:17:46,290 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-23 23:17:49,571 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-23 23:17:51,571 - INFO - Copied 1 files to projects\t_12\blends
+2024-08-23 23:17:51,571 - INFO - The img folder contains 1 images.
+2024-08-23 23:17:55,759 - INFO - Copied 1 images to projects\t_12\img
+2024-08-23 23:18:10,196 - INFO - Created project JSON file at projects\t_12\project_config.json
+2024-08-24 19:40:47,750 - INFO - Logging setup complete.
+2024-08-24 19:40:54,324 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 19:40:58,201 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-24 19:41:03,860 - INFO - Copied 1 files to projects/test_1/blends
+2024-08-24 19:41:03,862 - INFO - The img folder contains 1 images.
+2024-08-24 19:41:07,001 - INFO - Copied 1 images to projects/test_1/img
+2024-08-24 19:41:24,949 - INFO - Created project JSON file at projects/test_1/project_config.json
+2024-08-24 20:21:37,210 - INFO - Logging setup complete.
+2024-08-24 20:21:41,831 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:21:56,058 - INFO - User canceled the operation due to missing scripts.
+2024-08-24 20:22:48,097 - INFO - Logging setup complete.
+2024-08-24 20:22:51,860 - WARNING - The following scripts are missing: run_blender.py, render.py, set_cuda.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:22:56,472 - ERROR - Error transferring files: cannot access local variable 'action' where it is not associated with a value
+2024-08-24 20:22:58,117 - INFO - Copied 1 files to projects/tets22/blends
+2024-08-24 20:22:58,118 - INFO - The img folder contains 1 images.
+2024-08-24 20:23:01,643 - INFO - Copied 1 images to projects/tets22/img
+2024-08-24 20:23:09,451 - INFO - Created project JSON file at projects/tets22/project_config.json
+2024-08-24 20:23:52,696 - INFO - Logging setup complete.
+2024-08-24 20:23:55,456 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:23:58,247 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-24 20:24:00,892 - INFO - Copied 1 files to projects/bla3/blends
+2024-08-24 20:24:00,892 - INFO - The img folder contains 1 images.
+2024-08-24 20:24:01,982 - INFO - Copied 1 images to projects/bla3/img
+2024-08-24 20:24:09,946 - INFO - Created project JSON file at projects/bla3/project_config.json
+2024-08-24 20:26:53,733 - INFO - Logging setup complete.
+2024-08-24 20:27:27,602 - INFO - Logging setup complete.
+2024-08-24 20:27:28,748 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:27:31,361 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-24 20:27:33,460 - INFO - Copied 1 files to projects/sadf/blends
+2024-08-24 20:27:33,460 - INFO - The img folder contains 1 images.
+2024-08-24 20:27:35,485 - INFO - Copied 1 images to projects/sadf/img
+2024-08-24 20:27:38,122 - INFO - Created project JSON file at projects/sadf/project_config.json
+2024-08-24 20:29:30,692 - INFO - Logging setup complete.
+2024-08-24 20:29:34,068 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:29:35,892 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-24 20:29:45,809 - INFO - Copied 1 files to projects/fortune1/blends
+2024-08-24 20:29:45,809 - INFO - The img folder contains 1 images.
+2024-08-24 20:29:46,346 - INFO - Copied 1 images to projects/fortune1/img
+2024-08-24 20:29:48,045 - INFO - Created project JSON file at projects/fortune1/project_config.json
+2024-08-24 20:31:27,536 - INFO - Logging setup complete.
+2024-08-24 20:31:30,757 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:31:32,410 - ERROR - Error transferring files: [Errno 2] No such file or directory: 'run_blender.py'
+2024-08-24 20:31:33,810 - INFO - Copied 1 files to projects/test2/blends
+2024-08-24 20:31:33,810 - INFO - The img folder contains 1 images.
+2024-08-24 20:31:35,463 - INFO - Copied 1 images to projects/test2/img
+2024-08-24 20:31:47,571 - INFO - Created project JSON file at projects/test2/project_config.json
+2024-08-24 20:32:31,759 - INFO - Logging setup complete.
+2024-08-24 20:32:35,050 - WARNING - The following scripts are missing: render.py, process_blend_files.py, yolo_boundaries.py, format_yolo.py
+2024-08-24 20:32:41,683 - INFO - Copied 2 files to projects/test33/_scripts
+2024-08-24 20:32:43,081 - INFO - Copied 1 files to projects/test33/blends
+2024-08-24 20:32:43,084 - INFO - The img folder contains 1 images.
+2024-08-24 20:32:45,953 - INFO - Copied 1 images to projects/test33/img
+2024-08-24 20:32:49,559 - INFO - Created project JSON file at projects/test33/project_config.json
